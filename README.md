@@ -1,13 +1,11 @@
 <h1 align="center">👋 Hi! I'm Nicolás Schkurko 👋</h1>
 
 ---
-## 🚀 About Me 
-🎓 **Electronics Technician & Information Systems Engineering Student at UTN FRBA**  
-⚡ Passionate about technology, programming, and solving problems in innovative ways.  
+## 🚀 About Me  
+🎓 **Electronics Technician & Information Systems Engineering Student at UTN FRBA** ⚡ Passionate about technology, programming, and solving problems in innovative ways.  
 
-🛠️ **Skills & Experience:**  
-- 🧩 **3D modeling and 3D printing** 
-- 📟 **Electronics:** Skilled in PCB design and electronic circuit development, with hands-on experience using microcontrollers like the ATmega328p (Arduino) and ESP8266.
+🛠️ **Skills & Experience:** - 💻 **Web Development:** Experience building modern applications with **React** and **Next.js**.
+- 🧩 **3D modeling and 3D printing** - 📟 **Electronics:** Skilled in PCB design and electronic circuit development, with hands-on experience using microcontrollers like the ATmega328p (Arduino) and ESP8266.
 - 🤖 **CRM & Automation:** Implementations using **Zoho CRM**, often integrated with custom **WhatsApp bots** to streamline client communication.  
 - 📊 **Data Visualization:** Dashboard design using **Looker Studio**.  
 - 🎬 **Media Production:** Skilled in image and video editing using **Photoshop**, **Illustrator**, **Premiere**, and **Vegas Pro**.  
@@ -17,14 +15,20 @@
 ---
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasSchkurko&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NicolasSchkurko&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSchkurko&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NicolasSchkurko&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 ## 🛠️ Technologies & Tools  
+
+<p align="center"><strong>🌐 Web Development</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+</p>
 
 <p align="center"><strong>💻 Programming Languages</strong></p>
 <p align="center">
@@ -61,8 +65,6 @@
   <img src="https://img.shields.io/badge/-ZohoCRM-008135?style=for-the-badge&logo=zoho" alt="Zoho CRM">
   <img src="https://img.shields.io/badge/-looker-%23FFFFFF?style=for-the-badge&logo=looker" alt="Looker">
 </p>
-
-
 
 ---
 
