@@ -4,10 +4,13 @@
 ## 🚀 About Me  
 🎓 **Electronics Technician & Information Systems Engineering Student at UTN FRBA** ⚡ Passionate about technology, programming, and solving problems in innovative ways.  
 
-🛠️ **Skills & Experience:** - 💻 **Web Development:** Experience building modern applications with **React** and **Next.js**.
-- 🧩 **3D modeling and 3D printing** - 📟 **Electronics:** Skilled in PCB design and electronic circuit development, with hands-on experience using microcontrollers like the ATmega328p (Arduino) and ESP8266.
-- 🤖 **CRM & Automation:** Implementations using **Zoho CRM**, often integrated with custom **WhatsApp bots** to streamline client communication.  
-- 📊 **Data Visualization:** Dashboard design using **Looker Studio**.  
+🛠️ **Skills & Experience:** 
+- 💻 **Web Development:** Experience building modern applications with **React**.
+- 🧩 **3D modeling and 3D printing** 
+- 📟 **Electronics:** Skilled in PCB design and electronic circuit development, with hands-on experience using microcontrollers like the ATmega328p (Arduino) and ESP8266.
+- 🤖 **Automation & AI:** Implementations using **Zoho CRM** and **n8n** for AI integrations, developing custom **WhatsApp bots** to streamline client communication.  
+- 🗄️ **Databases:** Experience working with **SQL Server**, **PostgreSQL**, and **MongoDB**.
+- 📊 **Data Visualization:** Dashboard design using **Looker Studio** and **Power BI** (including **Power Query M**).  
 - 🎬 **Media Production:** Skilled in image and video editing using **Photoshop**, **Illustrator**, **Premiere**, and **Vegas Pro**.  
 - 🎮 **Game Development:** Growing interest and experience with **Unity** and **Godot Engine**.
 - 📚 Fast learner with the ability to **adapt quickly to new tools and languages**.
@@ -27,7 +30,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
 </p>
 
 <p align="center"><strong>💻 Programming Languages</strong></p>
@@ -42,6 +44,13 @@
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Wollok-FFA500?style=for-the-badge" alt="Wollok">
   <img src="https://img.shields.io/badge/Deluge-00a251?style=for-the-badge" alt="Deluge">
+</p>
+
+<p align="center"><strong>🗄️ Databases</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
 <p align="center"><strong>🕹️ Game Development</strong></p>
@@ -63,7 +72,9 @@
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="ElasticSearch">
   <img src="https://img.shields.io/badge/-ZohoCRM-008135?style=for-the-badge&logo=zoho" alt="Zoho CRM">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
   <img src="https://img.shields.io/badge/-looker-%23FFFFFF?style=for-the-badge&logo=looker" alt="Looker">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI">
 </p>
 
 ---
@@ -75,5 +86,11 @@
   </a>
   <a href="mailto:schkurkonicolas@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.thingiverse.com/NicolasSch/designs" target="_blank">
+    <img src="https://img.shields.io/badge/-Thingiverse-%2324B6E0?style=for-the-badge&logo=thingiverse&logoColor=white" alt="Thingiverse">
+  </a>
+  <a href="https://cults3d.com/es/usuarios/NicolasSch/modelos-3d" target="_blank">
+    <img src="https://img.shields.io/badge/-Cults3D-%2300EBC7?style=for-the-badge&logo=cults3d&logoColor=white" alt="Cults3D">
   </a>
 </p>
