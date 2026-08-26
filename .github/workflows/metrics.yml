@@ -12,3 +12,4 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_theme: dark
+          repositories_affiliations: owner, collaborator, organization_member
