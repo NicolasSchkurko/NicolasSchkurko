@@ -20,7 +20,9 @@
 <p align="center">
   <img src="github-metrics.svg?v=1" alt="Metrics" />
 </p>
+
 ---
+
 ## 🛠️ Technologies & Tools  
 
 <p align="center"><strong>🌐 Web Development</strong></p>
