@@ -79,4 +79,4 @@ I enjoy work that mixes software with hardware, and I document what I build so t
   </a>
 </p>
 
-<p align="center"><sub>⚡ When I'm not coding: 3D printing and aviation.</sub></p>
+<p align="center"><sub>⚡ When I'm not coding: 3D printing and music</sub></p>
