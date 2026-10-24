@@ -50,7 +50,6 @@ I enjoy work that mixes software with hardware, and I document what I build so t
 
 - [NGO Collaborative Mapping](https://github.com/NicolasSchkurko/DDS-tpa-2025-12) — MVC platform with MySQL persistence and full-text search (Java).
 - [CurriculumVitaeTypst](https://github.com/NicolasSchkurko/CurriculumVitaeTypst) — my CV as code, in Typst; forkable template for other developers.
-- [ScrapperMaps](https://github.com/NicolasSchkurko/ScrapperMaps) — scraping experiments with Google Maps data (JavaScript).
 - [paradigma_funcional](https://github.com/NicolasSchkurko/paradigma_funcional) / [paradigma-logico](https://github.com/NicolasSchkurko/paradigma-logico) — Haskell and Prolog exercises from the Programming Paradigms course.
 
 </details>
