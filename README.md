@@ -8,7 +8,8 @@
 
 <p align="center">
   <b>Software Developer</b> · Backend · Integrations · Automation<br>
-  <sub>Buenos Aires, Argentina — open to remote opportunities</sub>
+  <sub>Buenos Aires, Argentina — open to remote opportunities</sub><br>
+  <sub>🗣️ <b>Spoken languages:</b> Spanish (native) · English (intermediate) · Portuguese (basic)</sub>
 </p>
 
 <p align="center">
@@ -73,8 +74,6 @@ I enjoy work that mixes software with hardware.
 | **Mobile & Embedded** | Android · Jetpack Compose · Room · Arduino (ATmega328P) · ESP8266 · KiCad · Fusion 360 |
 | **AI-assisted development** | OpenCode · OpenSpec · agent skills · spec-driven workflows |
 | **Also** | Haskell · Prolog · Unity / Godot (hobby) |
-
-**Spoken languages:** Spanish (native) · English (intermediate) · Portuguese (basic)
 
 ## GitHub activity
 
