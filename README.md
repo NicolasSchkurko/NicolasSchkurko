@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://nschkurko.com/">
+    <img src="logo.svg" alt="Nicolás Schkurko Logo" width="105" height="105" />
+  </a>
+</p>
+
 <h1 align="center">Nicolás Schkurko</h1>
 
 <p align="center">
@@ -6,6 +12,8 @@
 </p>
 
 <p align="center">
+  <a href="https://nschkurko.com/"><b>🌐 nschkurko.com</b></a>
+  ·
   <a href="https://linkedin.com/in/nicolas-schkurko">LinkedIn</a>
   ·
   <a href="mailto:schkurkonicolas@gmail.com">Email</a>
@@ -34,6 +42,7 @@ I enjoy work that mixes software with hardware, and I document what I build so t
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [Portfolio & Showcase](https://nschkurko.com/) ([repo](https://github.com/NicolasSchkurko/portfolio)) | Personal engineering portfolio & interactive showcase deployed on **Cloudflare Workers / Pages** with real-time GitHub GraphQL API integration, WCAG 2.1 AA accessibility, and native bilingual i18n without heavy frameworks. | Vanilla JS · CSS3 · Cloudflare Workers · GraphQL |
 | [LGR100-SteamVR](https://github.com/NicolasSchkurko/LGR100-SteamVR) | SteamVR driver that turns the **LG 360 VR (R100)** — an Android phone accessory — into a PC VR headset. Reverse-engineered the USB/HID protocol and the IMU reports from a firmware dump, then built 3DOF tracking, sensor fusion and stereo rendering on top of SteamVR's driver API. | C/C++ · OpenVR · hidapi · CMake |
 | [Spec-Growth](https://github.com/NicolasSchkurko/Spec-Growth) | **Spec-anchored change management** for AI-assisted development (OpenCode + OpenSpec): every behavior change travels through a spec, a deterministic gate and earned evidence. Ships as an agent skill with 9 commands, docs and a conformance suite. | JavaScript · Node.js · OpenSpec · AI tooling |
 | 🔒 **Private** | Internal contacts & CRM tool for a professional-services firm: serverless backend, Google single sign-on, Zoho CRM API, full audit trail. Shipped and used daily. | Cloudflare Pages Functions · Zoho CRM API |
@@ -79,6 +88,9 @@ I enjoy work that mixes software with hardware, and I document what I build so t
 ## Elsewhere
 
 <p align="center">
+  <a href="https://nschkurko.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5500?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://linkedin.com/in/nicolas-schkurko" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
