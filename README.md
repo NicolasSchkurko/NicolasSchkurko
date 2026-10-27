@@ -36,7 +36,7 @@ My job is building the layer that connects business tools with people and data:
 - **Backend & Cloud** — serverless apps on Cloudflare Pages/Workers, Node.js REST APIs, OAuth 2.0, signed sessions, security headers.
 - **Data** — SQL modeling, Google Cloud / BigQuery, dashboards in Power BI and Looker Studio.
 
-I enjoy work that mixes software with hardware, and I document what I build so the next person can run it.
+I enjoy work that mixes software with hardware.
 
 ## Featured projects
 
