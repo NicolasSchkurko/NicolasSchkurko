@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://nschkurko.com/">
-    <img src="logo.svg" alt="Nicolás Schkurko Logo" width="105" height="105" />
+    <img src="logo.svg" alt="Nicolas Schkurko Logo" width="105" height="105" />
   </a>
 </p>
 
-<h1 align="center">Nicolás Schkurko</h1>
+<h1 align="center">Nicolas Schkurko</h1>
 
 <p align="center">
   <b>Software Developer</b> · Backend · Integrations · Automation<br>
