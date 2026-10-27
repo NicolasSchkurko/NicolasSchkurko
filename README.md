@@ -28,16 +28,11 @@
 
 ## About me
 
-**Information Systems Engineering** student at UTN FRBA and **Electronics Technician**, working as a **Software Developer since 2022** for marketing and CRM agencies (remote).
+**Information Systems Engineering** student at UTN FRBA and **Electronics Technician**, working as a **Software Developer since 2022** (remote).
 
-My job is building the layer that connects business tools with people and data:
+I bridge the gap **from bare-metal electronics to distributed cloud architectures**: building scalable backend systems, mission-critical integrations, native mobile applications, and agent-driven workflows.
 
-- **Integrations** — Zoho CRM (REST API v2, Deluge), WhatsApp Business API, Kommo, Wati, Google APIs.
-- **Automation & AI** — n8n workflows, conversational bots with the OpenAI API, end-to-end process automation.
-- **Backend & Cloud** — serverless apps on Cloudflare Pages/Workers, Node.js REST APIs, OAuth 2.0, signed sessions, security headers.
-- **Data** — SQL modeling, Google Cloud / BigQuery, dashboards in Power BI and Looker Studio.
-
-I enjoy work that mixes software with hardware.
+I focus on deterministic engineering, clean system design, and building reliable software for real-world impact.
 
 ## Featured projects
 
@@ -65,14 +60,14 @@ I enjoy work that mixes software with hardware.
 
 ## Tech stack
 
-| | |
+| Category | Technologies |
 | --- | --- |
-| **Languages** | JavaScript / TypeScript · Go · Java · C / C++ · C# · SQL · Kotlin |
-| **Web & Backend** | React · Next.js · Node.js · Express · Spring Boot · REST APIs · Cloudflare Workers/Pages |
-| **Integrations & Automation** | Zoho CRM · n8n · OpenAI API · WhatsApp Business API · Kommo · Wati · Google Apps Script |
-| **Data & Messaging** | PostgreSQL · SQL Server · MySQL · MongoDB · BigQuery · RabbitMQ · Power BI · Looker Studio |
-| **Mobile & Embedded** | Android · Jetpack Compose · Room · Arduino (ATmega328P) · ESP8266 · KiCad · Fusion 360 |
-| **AI-assisted development** | OpenCode · OpenSpec · agent skills · spec-driven workflows |
+| **Backend** | **Java / Spring Boot** · Go · Node.js / Express · REST APIs · SQL |
+| **Integrations & Automation** | Zoho CRM · WhatsApp Business API · n8n · OpenAI API · Google APIs · Kommo |
+| **Data & Analytics** | PostgreSQL · MySQL · SQL Server · MongoDB · BigQuery · RabbitMQ · Power BI · Looker Studio |
+| **Cloud & DevOps** | Google Cloud · Cloudflare Pages/Workers · Docker / Compose · GitHub Actions · Vercel |
+| **Systems & Hardware** | C / C++ · PlatformIO · ATmega328P · ESP8266 · KiCad · Kotlin / Jetpack Compose · OpenVR |
+| **Artificial Intelligence** | **OpenCode** · Local LLMs · Antigravity · Whisper (local) · ComfyUI · OpenAI API · Spec-Driven Development (SDD) |
 | **Also** | Haskell · Prolog · Unity / Godot (hobby) |
 
 ## GitHub activity
