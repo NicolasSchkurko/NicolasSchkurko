@@ -9,11 +9,11 @@
 <p align="center">
   <b>Software Developer</b> · Backend · Integrations · Automation<br>
   <sub>Buenos Aires, Argentina — open to remote opportunities</sub><br>
-  <sub>🗣️ <b>Spoken languages:</b> Spanish (native) · English (intermediate) · Portuguese (basic)</sub>
+  <sub>Spoken languages: Spanish (native) · English (intermediate) · Portuguese (basic)</sub>
 </p>
 
 <p align="center">
-  <a href="https://nschkurko.com/"><b>🌐 nschkurko.com</b></a>
+  <a href="https://nschkurko.com/">nschkurko.com</a>
   ·
   <a href="https://linkedin.com/in/nicolas-schkurko">LinkedIn</a>
   ·
@@ -28,11 +28,18 @@
 
 ## About me
 
-**Information Systems Engineering** student at UTN FRBA and **Electronics Technician**, working as a **Software Developer since 2022** (remote).
+**Information Systems Engineering** student at UTN FRBA and **Electronics Technician**, working professionally as a **Software Developer since 2022** (remote).
 
-I bridge the gap **from bare-metal electronics to distributed cloud architectures**: building scalable backend systems, mission-critical integrations, native mobile applications, and agent-driven workflows.
+Over the past 4 years, I have built the connective tissue between software, data, and business operations — architecting production-ready backend services, multi-platform integrations, and automated workflows for agencies and clients.
 
-I focus on deterministic engineering, clean system design, and building reliable software for real-world impact.
+### What I bring to an engineering team:
+
+- **End-to-End Ownership:** From untangling complex requirements to architecting, deploying, and maintaining systems in production. I approach software with a strong focus on data integrity, high availability, and performance under load.
+- **Full-Spectrum Versatility ("From Hardware to Cloud"):** My dual background in electronics and systems engineering gives me deep, low-level problem-solving intuition. Whether it is reverse-engineering a hardware protocol, debugging distributed microservices, or building responsive mobile applications, I move fluidly across the entire stack.
+- **Business Impact & Practical Automation:** Proven track record of automating high-volume communication flows, eliminating operational bottlenecks, and designing cost-efficient solutions (including zero-cost serverless internal architectures with full audit trails).
+- **Engineering Rigor & Maintainability:** I advocate for deterministic testing, clean architecture, and thorough documentation — ensuring every solution shipped is clear, maintainable, and built for other developers to build upon with confidence.
+
+Open to **remote software engineering opportunities** (Backend, Distributed Systems, Integrations, or Full-Stack) where technical excellence drives tangible business impact.
 
 ## Featured projects
 
